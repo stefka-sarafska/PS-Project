@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\bin\Debug\WPFStudentInfo.exe.config
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\bin\Debug\WPFStudentInfo.exe
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\bin\Debug\WPFStudentInfo.pdb
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo_MarkupCompile.cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo_MarkupCompile.lref
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo.g.resources
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo.Properties.Resources.resources
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo.exe
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFStudentInfo\WPFStudentInfo\obj\Debug\WPFStudentInfo.pdb

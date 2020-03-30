@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\bin\Debug\WPFhello.exe.config
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\bin\Debug\WPFhello.exe
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\bin\Debug\WPFhello.pdb
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello_MarkupCompile.cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello_MarkupCompile.lref
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello.g.resources
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello.Properties.Resources.resources
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello.exe
+C:\Users\Dell\Desktop\PS_74_Stefka\lab3\WPFhello\WPFhello\obj\Debug\WPFhello.pdb

@@ -7,7 +7,7 @@ using System.IO;
 
 namespace UserLogin
 {
-   static class Logger
+   public static class Logger
     {
         private static string filePath = "C:\\Users\\Dell\\Desktop\\PS_74_Stefka\\UserLogin\\logFile.txt";
         static private List<string> currentSessionActivities = new List<string>();
