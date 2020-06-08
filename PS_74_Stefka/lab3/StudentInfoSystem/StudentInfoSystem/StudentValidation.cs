@@ -7,7 +7,7 @@ using UserLogin;
 
 namespace StudentInfoSystem
 {
-   public class StudentValidation
+    public class StudentValidation
     {
         public Student GetStudentDataByUser(User user)
         {
@@ -16,7 +16,7 @@ namespace StudentInfoSystem
             {
                 Console.WriteLine("This user don't have faculty number!");
             }
-            
+
             foreach (Student student in StudentData.getStudents())
             {
                 if (student.facultyNumber.Equals(user.fNumber))

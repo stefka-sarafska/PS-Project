@@ -4,15 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0DCC4228-15CD-4855-B9EC-FC1335C2B72E}</ProjectGuid>
+    <ProjectGuid>{2943A465-ECA6-4E71-8C0E-C657C939ADAE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>StudentInfoSystem</RootNamespace>
-    <AssemblyName>StudentInfoSystem</AssemblyName>
+    <RootNamespace>ExpenseIt</RootNamespace>
+    <AssemblyName>ExpenseIt</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -54,9 +55,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Student.cs" />
-    <Compile Include="StudentData.cs" />
-    <Compile Include="StudentValidation.cs" />
+    <Page Include="ExpenseItHome.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExpenseReport.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -64,6 +70,12 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExpenseItHome.xaml.cs">
+      <DependentUpon>ExpenseItHome.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExpenseReport.xaml.cs">
+      <DependentUpon>ExpenseReport.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -95,19 +107,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\UserLogin\UserLogin.csproj">
-      <Project>{187ac71a-bda3-40eb-8f32-10661bec46fa}</Project>
-      <Name>UserLogin</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\WPFStudentInfo\WPFStudentInfo\WPFStudentInfo.csproj">
-      <Project>{f89024f9-4bce-4adf-96f8-0ed5ccb9d2c5}</Project>
-      <Name>WPFStudentInfo</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
